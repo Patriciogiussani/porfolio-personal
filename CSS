@@ -55,22 +55,13 @@
 
     .imagen {
        
-      max-width: 100%;
-      height: auto;
-      display: flex;
       margin-left: 1000px;
       position: relative;
-       bottom: 355px;
+       bottom: 400px;
       }
       
 
       #biografia {text-align: justify;
       margin-right: 500px;}
 
-      #bio {background-color: #fff;
-        padding: 20px;
-        margin-bottom: 20px;
-        border-radius: 5px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        position: relative;
-        text-align: justify;}
+      

@@ -53,15 +53,14 @@
     padding: 1rem;
   }
 
-    .imagen {
-       
-      margin-left: 1000px;
-      position: relative;
-       bottom: 400px;
-      }
+  #bio {
+    display:flex
+    
+   
+  }
       
 
       #biografia {text-align: justify;
-      margin-right: 500px;}
+      margin-right: 65px;}
 
       

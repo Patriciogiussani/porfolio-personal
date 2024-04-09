@@ -1,0 +1,76 @@
+/* Reset de estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos generales */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #000000;
+    color: #000000;
+    padding: 20px;
+  }
+  
+  header, main, footer {
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos específicos para el encabezado */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  header ul {
+    list-style: none;
+  }
+  
+  /* Estilos específicos para las secciones */
+  section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    position: relative;
+    text-align: justify;
+  }
+  
+  section h2 {
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos específicos para el pie de página */
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+
+    .imagen {
+       
+      max-width: 100%;
+      height: auto;
+      display: flex;
+      margin-left: 1000px;
+      position: relative;
+       bottom: 355px;
+      }
+      
+
+      #biografia {text-align: justify;
+      margin-right: 500px;}
+
+      #bio {background-color: #fff;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        position: relative;
+        text-align: justify;}
